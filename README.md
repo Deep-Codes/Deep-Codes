@@ -1,9 +1,7 @@
-<p align="center">
-  <img align="center" src="lS1.svg" width="300px">
-</p>
-<h2 align="center">👋 Hello! I'm Deepankar.</h2>
-
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **Languages and Tools:**
 
@@ -19,6 +17,3 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">   
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
