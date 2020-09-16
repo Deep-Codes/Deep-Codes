@@ -1,4 +1,7 @@
-### Hi there, I'm Deepankar 👋
+<p align="center">
+  <img align="center" src="./lS1.svg" width="300px">
+</p>
+<h2 align="center">👋 Hello! I'm Deepankar.</h2>
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)
 
