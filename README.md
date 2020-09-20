@@ -1,4 +1,8 @@
+<img src="https://media.giphy.com/media/agmheddabICHK/giphy.gif">
+
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)
+
+My Weekly Coding Stats:
 
 <!--START_SECTION:waka-->
 ```text
