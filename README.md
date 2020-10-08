@@ -4,11 +4,11 @@ My Weekly Coding Stats:
 
 <!--START_SECTION:waka-->
 ```text
-Java         19 hrs 46 mins  ███████████░░░░░░░░░░░░░░   43.88 % 
-Dart         9 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 % 
-JSX          5 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JavaScript   3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-CSS          3 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Java         12 hrs 26 mins  ███████▓░░░░░░░░░░░░░░░░░   30.34 % 
+Dart         10 hrs 47 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.32 % 
+JSX          6 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+CSS          3 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JavaScript   3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 <!--END_SECTION:waka-->
 
