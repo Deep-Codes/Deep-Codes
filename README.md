@@ -1,7 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deep-Codes&label=Views&color=blue&style=plastic" alt="Deepankar Page Views" /> </p>
-
-![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)
-
+<!--![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)-->
 My Weekly Coding Stats:
 
 <!--START_SECTION:waka-->
@@ -27,3 +24,5 @@ Java         1 hr 21 mins    ▓░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deep-Codes&label=Views&color=blue&style=plastic" alt="Deepankar Page Views" /> </p>
