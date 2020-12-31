@@ -1,6 +1,4 @@
-👋🏽 Hello World 
-🎉 A Typescript | React Enthusiast currently diving into Python and Swift
-🕹 Love Making CLI Tools
+# 👋🏽 Hello World 
 
 <!--![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deep-Codes&count_private=true&show_icons=true&theme=radical)-->
 My Weekly Coding Stats:
