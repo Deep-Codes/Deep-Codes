@@ -5,11 +5,11 @@ My Weekly Coding Stats:
 
 <!--START_SECTION:waka-->
 ```text
-Rust         16 hrs 37 mins  ███████████░░░░░░░░░░░░░░   43.75 % 
-TypeScript   11 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
-Other        3 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JavaScript   1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Ruby         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Rust         14 hrs 54 mins  █████████▒░░░░░░░░░░░░░░░   37.47 % 
+TypeScript   13 hrs 34 mins  ████████▓░░░░░░░░░░░░░░░░   34.11 % 
+Other        3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+JavaScript   2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Ruby         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 <!--END_SECTION:waka-->
 
