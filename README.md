@@ -13,8 +13,8 @@ CSS          1 hr 44 mins    █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-**Languages and Tools:**
+> Dont's consider `HTML` , `CSS` , `MDX / MD` in the programming stats.
 
-
+Try out [Chloromaps.com](https://www.chloromaps.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deep-Codes&label=Views&color=blue&style=plastic" alt="Deepankar Page Views" /> </p>
