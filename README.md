@@ -5,11 +5,11 @@ My Weekly Coding Stats:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 48 mins  █████████████▒░░░░░░░░░░░   53.34 % 
-MDX          10 hrs 41 mins  ████████▒░░░░░░░░░░░░░░░░   33.96 % 
-CSS          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JavaScript   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript   19 hrs 9 mins   ██████████████░░░░░░░░░░░   55.84 % 
+MDX          10 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   31.30 % 
+CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Markdown     49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
 
