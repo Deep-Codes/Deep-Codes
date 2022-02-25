@@ -1,6 +1,10 @@
 # 👋🏽 Hello World
 
-My Blogs:
+I am 20yo software engineer bridging between programming and design , creator of [chloromaps.com](https://chloromaps.com). Currently working at [@100ms](https://www.100ms.live/).
+
+Open source at [100ms](https://github.com/100mslive), [Vercel](https://github.com/vercel) (events-template) & [Coronasafe](https://github.com/coronasafe)
+
+Here's my blogs:
 
 <!--START_SECTION:feed-->
 * [Building a Video chat application with Remix and 100ms](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;remix-video-chat-app)
