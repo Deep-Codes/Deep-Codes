@@ -13,4 +13,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://dpnkr.in/rss/feed.xml
+          max: 8
           readme-section: feed
