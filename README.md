@@ -1,6 +1,6 @@
 # 👋🏽 Hello World
 
-I am 20yo software engineer bridging between programming and design , creator of [chloromaps.com](https://chloromaps.com). Currently working at [@100ms](https://www.100ms.live/).
+I am 21yo software engineer bridging between programming and design , creator of [chloromaps.com](https://chloromaps.com), [txtmoji.com](https://txtmoji.com). Currently working at [@100ms](https://www.100ms.live/).
 
 Open source at [100ms](https://github.com/100mslive), [Vercel](https://github.com/vercel) (events-template) & [Coronasafe](https://github.com/coronasafe)
 
