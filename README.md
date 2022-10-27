@@ -16,7 +16,7 @@ Here's my blogs:
 * [My Open Source Journey](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;open-source-journey)
 * [Building a Video chat application with Remix and 100ms](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;remix-video-chat-app)
 * [Gaining 19,000+ followers and building my dream project chloromaps.com](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;building-maps-affinity-and-chloromaps)
-* [Checklist for Shipping Side Projects](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;shipping-side-projects)
+* [Fixing Next.js router query param returning undefined on initial render](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;nextjs-router-query-undefined)
 <!--END_SECTION:feed-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deep-Codes&label=Views&color=blue&style=plastic" alt="Deepankar Page Views" /> </p>
