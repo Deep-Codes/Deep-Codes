@@ -1,8 +1,8 @@
 # 👋🏽 Hello World
 
-I am 22yo software engineer bridging between programming and design , creator of [chloromaps.com](https://chloromaps.com), [txtmoji.com](https://txtmoji.com). 
+Product Engineer bridging between programming and design, creator of [chloromaps.com](https://chloromaps.com), [txtmoji.com](https://txtmoji.com). 
 
-Currently code [@Sundial](https://sundial.so) ,previously I worked with [@100ms](https://www.100ms.live/), [Coronasafe](https://github.com/coronasafe).
+Past [@Sundial](https://sundial.so), [@100ms](https://www.100ms.live/), [Coronasafe](https://github.com/coronasafe).
 
 Open source at [100ms](https://github.com/100mslive), [Vercel](https://github.com/vercel) (events-template) & [Coronasafe](https://github.com/coronasafe)
 
