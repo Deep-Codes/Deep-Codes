@@ -9,6 +9,7 @@ Open source at [100ms](https://github.com/100mslive), [Vercel](https://github.co
 Here's my blogs:
 
 <!--START_SECTION:feed-->
+* [Fixing the &quot;[from ...]&quot; Prefix on WhatsApp Messages in OpenClaw](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;openclaw-cross-context-marker)
 * [Life Index](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;life-index)
 * [How to Allow In-App Music Without Stopping External Playback in Your Swift iOS App](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;prevent-swift-app-stopping-external-music)
 * [Mocking Swipe in Playwright Testing](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;swipe-playwright-testing)
@@ -16,7 +17,6 @@ Here's my blogs:
 * [Daytime Protocol RFC-867 in Golang](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;daytime-protocol-golang)
 * [Understanding Goroutines &amp; Channels with Ping Pong game](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;goroutines-ping-pong)
 * [My Open Source Journey](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;open-source-journey)
-* [Building a Video chat application with Remix and 100ms](https:&#x2F;&#x2F;dpnkr.in&#x2F;blog&#x2F;remix-video-chat-app)
 <!--END_SECTION:feed-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deep-Codes&label=Views&color=blue&style=plastic" alt="Deepankar Page Views" /> </p>
